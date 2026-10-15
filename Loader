@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KINJAZx/KINJAZ-HUB-VD/main/main.lua", true))()
